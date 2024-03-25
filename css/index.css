@@ -1,0 +1,25 @@
+* {
+  border: 0;
+  margin: 0;
+}
+
+input {
+  border: 2px solid;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin-top: 20px;
+}
+
+/* table input {
+  border: none;
+} */
+
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
